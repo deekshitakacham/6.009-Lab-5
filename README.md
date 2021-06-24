@@ -1,1 +1,2 @@
 # 6.009-Lab-5
+Mines is played on a rectangular n \times mn×m board (where nn indicates the number of rows and mm the number of columns), covered with 1\times 11×1 square tiles. Some of these tiles hide secretly buried mines; all the other squares are safe (and, generally, relative to the size of the board, only a small number of squares contain a bomb). On each turn, the player removes one tile, revealing either a mine or a safe square. The game is won when all safe tiles have been removed, without revealing a single mine, and it is lost if a mine is revealed.
